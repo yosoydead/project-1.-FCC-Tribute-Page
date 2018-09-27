@@ -1,4 +1,4 @@
-This is the first project from FreeCodeCamp.
+This is the first project from FreeCodeCamp. My [pen](https://codepen.io/yosoydead/pen/GYKyJJ) link. Didn't pun too much effort into it. Maybe I'll consider redoing it in the future.
 ### source: https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-projects/build-a-tribute-page/
 
 To do's:
